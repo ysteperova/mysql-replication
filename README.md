@@ -25,7 +25,7 @@ DB                  |    MySQL    |       2                                     
 * DB - Database 
 * CT - Container
 
-**MySQL Database **: 5.7.12 <br/>
+**MySQL Database**: 5.7.12<br/>
 **Java Engine**: Java 7.0
 
 ### Deployment
