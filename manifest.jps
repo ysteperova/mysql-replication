@@ -3,7 +3,7 @@
 	"application": {
 		"id": "mysqlreplic",
 		"categories": ["apps/clustered-dbs", "apps/popular", "apps/clusters"],
-		"logo": "https://raw.githubusercontent.com/JelasticJPS/MySqlReplic/master/images/mysql_new.png",
+		"logo": "https://raw.githubusercontent.com/jelastic-jps/MySqlReplic/master/images/mysql_new.png",
 		"description": {
 			"text": "Master-slave replication is used to solve performance problems, to support the db backups, and to alleviate system failures. It enables data from one database server (master) to be replicated to another (slave)"
 		},
