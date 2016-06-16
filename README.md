@@ -1,3 +1,4 @@
+[![MySQL Database Replication](../../raw/master/images/mysql_new.png)](../../../MySqlReplic)
 ## MySQL Database Replication
 
 The JPS package deploys MySQL Database Replication that initially contains 2 database containers. The package provides the solution for solving performance problems, DB backups support, gives ability to alleviate system failures. It enables data from one database server (the master) to be replicated to one or more database servers (the slaves).
