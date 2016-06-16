@@ -1,7 +1,7 @@
 [![MySQL Database Replication](../../raw/master/images/mysql_new.png)](../../../MySqlReplic)
 ## MySQL Database Replication
 
-The JPS package deploys MySQL Database Replication that initially contains 2 database containers. The package provides the solution for solving performance problems, DB backups support, gives ability to alleviate system failures. It enables data from one database server (the master) to be replicated to one or more database servers (the slaves).
+The JPS package deploys MySQL Cluster with preconfigured replication that initially contains 2 database containers. The package provides the solution for solving performance problems, DB backups support, gives ability to alleviate system failures. It enables data from one database server (the master) to be replicated to one or more database servers (the slaves).
 
 ### Highlights
 This package is designed to solve a number of different problems with performance, supporting the backup of different databases, and as a part of a larger solution to alleviate system failures.<br />
