@@ -15,7 +15,7 @@ The target usage for replication in MySQL databases includes:
 
 ###Environment Topology
 
-![MySQL Database Replication Topology](https://docs.google.com/drawings/d/13vbJk518Q2CJT0VhQRTDfF-66vt7Wf6IZPU6k6cHRqE/pub?w=401&h=623)
+![MySQL Database Replication Topology](https://docs.google.com/drawings/d/13vbJk518Q2CJT0VhQRTDfF-66vt7Wf6IZPU6k6cHRqE/pub?w=300&h=467)
 
 ### Specifics
 
